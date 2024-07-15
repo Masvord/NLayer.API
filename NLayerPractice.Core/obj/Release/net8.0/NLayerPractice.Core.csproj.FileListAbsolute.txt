@@ -1,0 +1,11 @@
+C:\Users\FatihKara\Desktop\NLayerApp\NLayerPractice.Core\bin\Release\net8.0\NLayerPractice.Core.deps.json
+C:\Users\FatihKara\Desktop\NLayerApp\NLayerPractice.Core\bin\Release\net8.0\NLayerPractice.Core.dll
+C:\Users\FatihKara\Desktop\NLayerApp\NLayerPractice.Core\bin\Release\net8.0\NLayerPractice.Core.pdb
+C:\Users\FatihKara\Desktop\NLayerApp\NLayerPractice.Core\obj\Release\net8.0\NLayerPractice.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FatihKara\Desktop\NLayerApp\NLayerPractice.Core\obj\Release\net8.0\NLayerPractice.Core.AssemblyInfoInputs.cache
+C:\Users\FatihKara\Desktop\NLayerApp\NLayerPractice.Core\obj\Release\net8.0\NLayerPractice.Core.AssemblyInfo.cs
+C:\Users\FatihKara\Desktop\NLayerApp\NLayerPractice.Core\obj\Release\net8.0\NLayerPractice.Core.csproj.CoreCompileInputs.cache
+C:\Users\FatihKara\Desktop\NLayerApp\NLayerPractice.Core\obj\Release\net8.0\NLayerPractice.Core.dll
+C:\Users\FatihKara\Desktop\NLayerApp\NLayerPractice.Core\obj\Release\net8.0\refint\NLayerPractice.Core.dll
+C:\Users\FatihKara\Desktop\NLayerApp\NLayerPractice.Core\obj\Release\net8.0\NLayerPractice.Core.pdb
+C:\Users\FatihKara\Desktop\NLayerApp\NLayerPractice.Core\obj\Release\net8.0\ref\NLayerPractice.Core.dll

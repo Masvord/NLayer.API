@@ -1,0 +1,64 @@
+[
+  {
+    "ContainingType": "NLayerPractice.API.Controllers.CategoriesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NLayerPractice.API.Controllers.CategoriesController",
+    "Method": "GetSingleCategoryByIdWithProducts",
+    "RelativePath": "api/Categories/GetSingleCategoryByIdWithProducts/{categoryId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NLayerPractice.API.Controllers.ProductsController",
+    "Method": "All",
+    "RelativePath": "api/Products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NLayerPractice.API.Controllers.ProductsController",
+    "Method": "GetProductsByCategoryId",
+    "RelativePath": "api/Products/GetProductsByCategoryId/{categoryId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NLayerPractice.API.Controllers.ProductsController",
+    "Method": "GetProductsWithCategory",
+    "RelativePath": "api/Products/GetProductsWithCategory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
