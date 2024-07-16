@@ -20,3 +20,15 @@ C:\Users\FatihKara\Desktop\NLayerApp\NLayerPractice.Core\obj\Debug\net8.0\NLayer
 C:\Users\FatihKara\Desktop\NLayerApp\NLayerPractice.Core\obj\Debug\net8.0\refint\NLayerPractice.Core.dll
 C:\Users\FatihKara\Desktop\NLayerApp\NLayerPractice.Core\obj\Debug\net8.0\NLayerPractice.Core.pdb
 C:\Users\FatihKara\Desktop\NLayerApp\NLayerPractice.Core\obj\Debug\net8.0\ref\NLayerPractice.Core.dll
+C:\Users\FatihKara\Documents\GitHub\NLayer.API\NLayerPractice.Core\bin\Debug\net8.0\NLayerPractice.Core.deps.json
+C:\Users\FatihKara\Documents\GitHub\NLayer.API\NLayerPractice.Core\bin\Debug\net8.0\NLayerPractice.Core.dll
+C:\Users\FatihKara\Documents\GitHub\NLayer.API\NLayerPractice.Core\bin\Debug\net8.0\NLayerPractice.Core.pdb
+C:\Users\FatihKara\Documents\GitHub\NLayer.API\NLayerPractice.Core\obj\Debug\net8.0\NLayerPractice.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FatihKara\Documents\GitHub\NLayer.API\NLayerPractice.Core\obj\Debug\net8.0\NLayerPractice.Core.AssemblyInfoInputs.cache
+C:\Users\FatihKara\Documents\GitHub\NLayer.API\NLayerPractice.Core\obj\Debug\net8.0\NLayerPractice.Core.AssemblyInfo.cs
+C:\Users\FatihKara\Documents\GitHub\NLayer.API\NLayerPractice.Core\obj\Debug\net8.0\NLayerPractice.Core.csproj.CoreCompileInputs.cache
+C:\Users\FatihKara\Documents\GitHub\NLayer.API\NLayerPractice.Core\obj\Debug\net8.0\NLayerPractice.Core.sourcelink.json
+C:\Users\FatihKara\Documents\GitHub\NLayer.API\NLayerPractice.Core\obj\Debug\net8.0\NLayerPractice.Core.dll
+C:\Users\FatihKara\Documents\GitHub\NLayer.API\NLayerPractice.Core\obj\Debug\net8.0\refint\NLayerPractice.Core.dll
+C:\Users\FatihKara\Documents\GitHub\NLayer.API\NLayerPractice.Core\obj\Debug\net8.0\NLayerPractice.Core.pdb
+C:\Users\FatihKara\Documents\GitHub\NLayer.API\NLayerPractice.Core\obj\Debug\net8.0\ref\NLayerPractice.Core.dll

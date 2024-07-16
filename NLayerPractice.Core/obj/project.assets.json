@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FatihKara\\Desktop\\NLayerApp\\NLayerPractice.Core\\NLayerPractice.Core.csproj",
+      "projectUniqueName": "C:\\Users\\FatihKara\\Documents\\GitHub\\NLayer.API\\NLayerPractice.Core\\NLayerPractice.Core.csproj",
       "projectName": "NLayerPractice.Core",
-      "projectPath": "C:\\Users\\FatihKara\\Desktop\\NLayerApp\\NLayerPractice.Core\\NLayerPractice.Core.csproj",
+      "projectPath": "C:\\Users\\FatihKara\\Documents\\GitHub\\NLayer.API\\NLayerPractice.Core\\NLayerPractice.Core.csproj",
       "packagesPath": "C:\\Users\\FatihKara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FatihKara\\Desktop\\NLayerApp\\NLayerPractice.Core\\obj\\",
+      "outputPath": "C:\\Users\\FatihKara\\Documents\\GitHub\\NLayer.API\\NLayerPractice.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

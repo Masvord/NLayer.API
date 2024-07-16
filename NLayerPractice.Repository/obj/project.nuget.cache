@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jSBo+bRCnv4MjkUmWTzWP0SeMgKT9ysp7rSEaCRRNrW0uf6x8M+gAtfa0mpjro7Wa6SwlOnC0utub7PRbIvx3g==",
+  "dgSpecHash": "Y5fbsVDVxGXDtExo7ZktGWRe28bg4dQMW/R976oB9bHzWM2vyyC3dUzFXT5BiRHY2WyeubGRaWhuZzmtHP27dQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FatihKara\\Desktop\\NLayerApp\\NLayerPractice.Repository\\NLayerPractice.Repository.csproj",
+  "projectFilePath": "C:\\Users\\FatihKara\\Documents\\GitHub\\NLayer.API\\NLayerPractice.Repository\\NLayerPractice.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FatihKara\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\FatihKara\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

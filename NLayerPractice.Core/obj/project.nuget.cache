@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zsoR6rupK4ULVg5A38PIRwxKlCgZaCmxXCJKLRP0d2loMLl3UfSryMbl+fyF9vWPhzjEVeNbsCCqVmWMEK516Q==",
+  "dgSpecHash": "OUz5u1E3LYKhaLnUfSWI3B0eACwvC0qIMD+ggbpkT6whM9F3c5upqKdYKOCiqnizQL2x6o/RdP1jetrggTjsQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FatihKara\\Desktop\\NLayerApp\\NLayerPractice.Core\\NLayerPractice.Core.csproj",
+  "projectFilePath": "C:\\Users\\FatihKara\\Documents\\GitHub\\NLayer.API\\NLayerPractice.Core\\NLayerPractice.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

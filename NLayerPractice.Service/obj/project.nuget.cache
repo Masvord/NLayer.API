@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j2JJSGqxc/JyMLD58f0uz5lcwcCSmMf/a4iVjvD2Y5NqV9sl6LrFEvJnL2MOFo9gHP32F6RSqjjxSjuM15Zf0w==",
+  "dgSpecHash": "KSkPX+EOJqK2x3WOqoWQrnWxs6QNXH8QhLWvp+yIqvVcebajgKnTK2Y/taCf3cB1jk89EsvW/0pZD890gN3IMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FatihKara\\Desktop\\NLayerApp\\NLayerPractice.Service\\NLayerPractice.Service.csproj",
+  "projectFilePath": "C:\\Users\\FatihKara\\Documents\\GitHub\\NLayer.API\\NLayerPractice.Service\\NLayerPractice.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FatihKara\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\FatihKara\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
